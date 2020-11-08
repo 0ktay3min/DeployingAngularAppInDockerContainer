@@ -21,6 +21,10 @@ Following requirements should be met:
     • Use Docker Compose to manage the Angular application running inside the Docker container
 
 
+## SOLUTION
+PDF instruction for the solution can be found inside the project 
+## NAME "Deploting Angular App in Docker Container.pdf"
+
 # Myangularapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
