@@ -1,4 +1,4 @@
-## Deploy Angular Application in Docker Container
+### Deploy Angular Application in Docker Container
 ## DESCRIPTION
 Deploy the Angular application in Docker. The Angular application should be built with the Angular CLI along with Docker Compose for development and production. 
 
