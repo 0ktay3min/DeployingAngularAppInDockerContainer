@@ -34,7 +34,7 @@ Your goal is to demonstrate the Angular application and run it in Docker contain
 
 
 ## SOLUTION
-PDF instruction for the solution can be found inside the project 
+## PDF instruction for the solution can be found inside the project 
 ## NAME "Deploting Angular App in Docker Container.pdf"
 
 # Myangularapp
